@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://www.doyenhub.com/
+ * @link              https://thatpeoples.com/
  * @since             1.0.0
  * @package           Elementor_Card_Design
  *
  * @wordpress-plugin
  * Plugin Name:       Elementor Card Design
- * Plugin URI:        https://www.doyenhub.com/
+ * Plugin URI:        https://thatpeoples.com/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
  * Author:            Rahul Harkhani
- * Author URI:        https://www.doyenhub.com/
+ * Author URI:        https://thatpeoples.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       elementor-card-design

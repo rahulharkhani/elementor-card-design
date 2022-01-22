@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       https://www.doyenhub.com/
+ * @link       https://thatpeoples.com/
  * @since      1.0.0
  *
  * @package    Elementor_Card_Design
@@ -18,7 +18,7 @@
  *
  * @package    Elementor_Card_Design
  * @subpackage Elementor_Card_Design/admin
- * @author     Rahul Harkhani <rahul.l.harkhani@doyenhub.com>
+ * @author     Rahul Harkhani <rahul.harkhani11@gmail.com>
  */
 class Elementor_Card_Design_Admin {
 

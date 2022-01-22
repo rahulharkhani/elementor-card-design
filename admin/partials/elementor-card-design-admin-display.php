@@ -5,7 +5,7 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       https://www.doyenhub.com/
+ * @link       https://thatpeoples.com/
  * @since      1.0.0
  *
  * @package    Elementor_Card_Design

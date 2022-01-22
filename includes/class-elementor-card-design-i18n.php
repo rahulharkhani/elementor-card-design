@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       https://www.doyenhub.com/
+ * @link       https://thatpeoples.com/
  * @since      1.0.0
  *
  * @package    Elementor_Card_Design
@@ -22,7 +22,7 @@
  * @since      1.0.0
  * @package    Elementor_Card_Design
  * @subpackage Elementor_Card_Design/includes
- * @author     Rahul Harkhani <rahul.l.harkhani@doyenhub.com>
+ * @author     Rahul Harkhani <rahul.harkhani11@gmail.com>
  */
 class Elementor_Card_Design_i18n {
 

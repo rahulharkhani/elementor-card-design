@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: https://www.doyenhub.com/
+Donate link: https://thatpeoples.com/
 Tags: comments, spam
 Requires at least: 4.0.0
 Tested up to: 5.8.2
